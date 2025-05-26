@@ -20,3 +20,4 @@ This project is designed to be executed in the Turbo C++ IDE, which typically ru
 Data Archiving -	Compressing text logs, configuration files, and documents to save space.
 Embedded Systems	-Useful where memory is limited and quick encoding/decoding is needed
 *output
+![Image](https://github.com/user-attachments/assets/61426193-99c3-4e28-9d87-6239254180fd)
